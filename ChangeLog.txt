@@ -1,0 +1,43 @@
+------------------ VER 1.7.1 - Feb 06, 2014 ---------------
+Fixed: Varius bug
+
+------------------ VER 1.7.0 - Jan 10, 2014 ---------------
+Added support to WP 3.8
+
+UPDATED
+languages/default.po
+languages/it_IT.mo
+languages/it_IT.po
+languages/ru_RU.mo
+languages/ru_RU.po
+languages/yit.pot
+style.css
+ChangeLog.txt
+core/assets/css/metaboxes.css
+core/assets/css/panel.css
+core/lib/yit/Type/Types/Selecticon.php
+core/yit/CPT_Unlimited.php
+core/yit/Services.php
+core/yit/Testimonial.php
+
+------------------ VER 1.6.2 ---------------
+Fixed: Language files supported also in the child theme
+Fixed: Error with Last tweets widget. Replaced user name with user id
+
+UPDATED:
+
+theme/tr.php
+ChangeLog.txt
+core/widgets/last_tweets.php
+core/load.php
+core/yit/Dashboard.php
+images/dismiss.png
+theme/config.php
+
+
+------------------ VER 1.6.1 ---------------
+Added: support with Wordpress 3.6
+Fixed: Last tweets widget, error on multiple lines
+
+------------------ VER 1.6.0 ---------------
+Initial Release
